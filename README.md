@@ -5,7 +5,7 @@
 
 Main Skills
 <p align="center">
-<img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring-11264f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/SpringBoot-11264f?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Mysql-11264f?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
