@@ -4,6 +4,7 @@
 <h3 align="center">Backend Developer 
 
 <h2 align="center">:computer:Main Skills:computer:
+
 <p align="center">
 <img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring-11264f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
@@ -12,6 +13,7 @@
 </p>
 
 <h2 align="center">:point_up:Tech Used Least At Once:point_up:
+
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-11264f?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-11264f?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
@@ -21,6 +23,7 @@
 </p>
 
 <h2 align="center">:point_right:Contect Me!:point_left:
+
 <p align="center">
 <a href="mailto:dltngus4652@gmail.com"><img src="https://img.shields.io/badge/Gmail-11264f?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 <a href="https://www.instagram.com/lesh_d_iary/"><img src="https://img.shields.io/badge/Instagram-11264f?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
