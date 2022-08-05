@@ -28,6 +28,7 @@
 <a href="mailto:dltngus4652@gmail.com"><img src="https://img.shields.io/badge/Gmail-11264f?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 <a href="https://www.instagram.com/lesh_d_iary/"><img src="https://img.shields.io/badge/Instagram-11264f?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
 <a href="https://www.linkedin.com/in/suhyeon-lee-44a016229/"><img src="https://img.shields.io/badge/LinkedIn-11264f?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
-<a href="https://leesuhyeon97.github.io/"><img src="https://img.shields.io/badge/GithubPages-11264f?style=flat-square&logo=GithubPages&logoColor=white"/></a>&nbsp 
+<a href="https://leesuhyeon97.github.io/"><img src="https://img.shields.io/badge/GithubPages-11264f?style=flat-square&logo=GithubPages&logoColor=white"/></a>&nbsp
+<a href="https://www.notion.so/Lesh-e3ed231a52294ce280b692559b40a2cc"><img src="https://img.shields.io/badge/Notion-11264f?style=flat-square&logo=NotionlogoColor=white"/></a>&nbsp 
 </p>
 
