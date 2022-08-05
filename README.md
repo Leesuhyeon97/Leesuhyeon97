@@ -3,7 +3,7 @@
 <h3 align="center">Hi I'm SuHyeon Lee 
 <h3 align="center">Backend Developer 
 
-<h2 align="center">:computer:Main Skills:computer
+<h2 align="center">:computer:Main Skills:computer:
 <p align="center">
 <img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring-11264f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Mysql-11264f?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
 </p>
 
-<h2 align="center">:point_up:Tech used least at once:point_up:
+<h2 align="center">:point_up:Tech Used Least At Once:point_up:
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-11264f?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-11264f?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
@@ -19,3 +19,12 @@
 <img src="https://img.shields.io/badge/AmazonAWS-11264f?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Docker-11264f?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
+
+<h2 align="center">:point_right:Contect Me!:point_left:
+<p align="center">
+<img src="https://img.shields.io/badge/Gmail-11264f?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Instagram-11264f?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/LinkedIn-11264f?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/GithubPages-11264f?style=flat-square&logo=GithubPages&logoColor=white"/></a>&nbsp 
+</p>
+
