@@ -1,5 +1,21 @@
-### Hi I'm SuHyeon LEE. Good to see you!
+![header](https://capsule-render.vercel.app/api?type=rounded&color=76d7ea&height=300&section=header&text=Hello!%20Everyone&fontSize=90&fontColor=ffffff)
 
-<a href="https://www.linkedin.com/in/suhyeon-lee-44a016229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://www.notion.so/Lesh-e3ed231a52294ce280b692559b40a2cc" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=square&logo=notion&logoColor=000000"/></a>
-<a href="*" target="_blank"><img src="https://img.shields.io/badge/dltngus4652@gmail.com-FFFFFF?style=square&logo=gmail&logoColor=EA4335"/></a>
+## Hi I'm SuHyeon Lee 
+## Backend Developer 
+
+Main Skills
+<p align="center">
+<img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-11264f?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+</p>
+
+Tech used least at once
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-11264f?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSS-11264f?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Html-11264f?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/AmazonAWS-11264f?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Docker-11264f?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+</p>
