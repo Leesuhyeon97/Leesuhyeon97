@@ -13,7 +13,7 @@
 
 <h2 align="center">:point_up:Tech Used Least At Once:point_up:
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-11264f?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-11264f?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-11264f?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML5-11264f?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/AmazonAWS-11264f?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
@@ -22,9 +22,9 @@
 
 <h2 align="center">:point_right:Contect Me!:point_left:
 <p align="center">
-<img src="https://img.shields.io/badge/Gmail-11264f?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Instagram-11264f?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/LinkedIn-11264f?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/GithubPages-11264f?style=flat-square&logo=GithubPages&logoColor=white"/></a>&nbsp 
+<a href="mailto:dltngus4652@gmail.com"><img src="https://img.shields.io/badge/Gmail-11264f?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
+<a href="https://www.instagram.com/lesh_d_iary/"><img src="https://img.shields.io/badge/Instagram-11264f?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
+<a href="https://www.linkedin.com/in/suhyeon-lee-44a016229/"><img src="https://img.shields.io/badge/LinkedIn-11264f?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
+<a href="https://leesuhyeon97.github.io/"><img src="https://img.shields.io/badge/GithubPages-11264f?style=flat-square&logo=GithubPages&logoColor=white"/></a>&nbsp 
 </p>
 
